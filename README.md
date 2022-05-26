@@ -29,8 +29,30 @@
 <br />
 
 <br />**2. Labwork for RISC-V software toolchain**
+<br />![lab_1](https://user-images.githubusercontent.com/66528639/170440498-dd8c2a10-308e-4b86-95ca-ba00cbdd6ca1.jpg)
+<br />Command to invoke text editor for C Program
+<br />![Lab_2](https://user-images.githubusercontent.com/66528639/170440683-bbcfceae-52f3-43b0-979d-64e68380f574.jpg)
+<br />Program to calclulate sum of N numbers
+<br />![lab_3_object_file_main](https://user-images.githubusercontent.com/66528639/170440881-5afeb324-de14-4ae5-9b7d-2fa180fda657.jpg)
+<br />Object file when "O1" is used, the number of instruction required is 15
+<br />![lab_4_object_file_main](https://user-images.githubusercontent.com/66528639/170441329-958201bd-6818-4cac-92c1-2f16639bde54.jpg)
+<br />Object file when "Ofast" is used, the number of instruction reduced to 12
 <br />
 
-**3. Integer number representation**
+<br />**3. Integer number representation - Signed and unsigned arithmetic operations**
+<br />![Lab_3_Unsigned_Max](https://user-images.githubusercontent.com/66528639/170441738-c7b7864d-79c9-4b64-ba5c-a48b33098f21.jpg)
+<br />Max value for Unsigned Data type with C program and commands
+<br />![Lab_3_Unsigned_Max_Limit_Exceed](https://user-images.githubusercontent.com/66528639/170442594-505b720e-c03f-47ca-a01a-5ba3e3b5f8a7.jpg)
+<br />Max limit value for Unsigned Data type exceed with C program and commands
+<br />![Lab_3_Unsigned_Max_Lowest](https://user-images.githubusercontent.com/66528639/170442763-dcabf34e-353a-4c1c-ad80-f2d71ef96b98.jpg)
+<br />Min value for Unsigned Data type with C program and commands
+<br />![Lab_3_Unsigned_Max_Within_Limit](https://user-images.githubusercontent.com/66528639/170442956-2ec2a2ad-996e-4443-80de-4fb63c5f4eeb.jpg)
+<br />Unsigned Data type with C program and commands within the limit
+<br />![Lab_3_signed_value](https://user-images.githubusercontent.com/66528639/170443120-9dac9309-c588-4f26-95a5-08d27c3709be.jpg)
+<br />Signed Data type with C program and commands 
+<br />![Lab_3_signed_max_min](https://user-images.githubusercontent.com/66528639/170443290-58d30297-dfe9-48ea-82bd-65df4107fa97.jpg)
+<br />Signed Data type with C program and commands with Max and Min limit
 
-**4. Signed and unsigned arithmetic operations**
+
+
+
