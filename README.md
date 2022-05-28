@@ -195,3 +195,49 @@ br />
 <br />![11_validate_phy](https://user-images.githubusercontent.com/66528639/170826415-a101117f-f2c3-47aa-8330-7447ee1b0855.jpg)
 <br />Validate of Phythagorus
  
+ 
+ <br />**Day 4**
+ ** <br />Basic RISC-V CPU micro-architecture**
+  <br />
+ <br />Implementation on TL-Verilog
+   <br />
+     <br />![CPU_Design](https://user-images.githubusercontent.com/66528639/170826769-1ff21b6b-cd1f-41f6-a782-0fec73b43832.jpg)
+       <br />CPU Design
+ <br />![1_PC](https://user-images.githubusercontent.com/66528639/170826566-3a757611-9765-4379-8006-793f025cfbac.jpg)
+ <br />Program Counter
+  <br />![2_Fetch_logic](https://user-images.githubusercontent.com/66528639/170826594-21422141-77e2-49e6-8afd-3dcd12506993.jpg)
+ <br />Fetch Logic
+  <br />
+   <br />![3_Instruction_Decode_logic](https://user-images.githubusercontent.com/66528639/170826602-339c2008-1bd2-4d5d-b7aa-d01ec051f45c.jpg)
+ <br />Instruction Decode Logic
+  <br />
+   <br />![4_Instruction_imm_decode](https://user-images.githubusercontent.com/66528639/170826611-ef14cb66-1c2a-4db8-b739-231c55e9adcb.jpg)
+    <br />Instruction Immediate Decode
+   <br />![5_instruction_decode](https://user-images.githubusercontent.com/66528639/170826623-ee832032-51a4-4874-bba0-5e1948f7907e.jpg)
+    <br />Instruction Decode
+     <br />
+      <br />![6_Instruction_Field_decode](https://user-images.githubusercontent.com/66528639/170826637-8c60e630-f457-4924-a724-e7e531a84dc0.jpg)
+       <br />Instruction Field Decode
+        <br />
+         <br />![7_instruction_Decode](https://user-images.githubusercontent.com/66528639/170826649-690b17ed-489e-40e5-802e-75761c4eff61.jpg)
+          <br />Instruction Decode
+         <br />
+         <br />![8_reg_file_read](https://user-images.githubusercontent.com/66528639/170826661-15880bb7-1055-4baf-a028-d17e66d6e827.jpg)
+          <br />Register Field Read
+           <br />
+            <br />![9_ALU](https://user-images.githubusercontent.com/66528639/170826683-ddfe0159-e89f-4b0d-a606-728009edeeeb.jpg)
+             <br />ALU
+              <br />
+               <br />![10_Branch_Instructions](https://user-images.githubusercontent.com/66528639/170826694-549e62e5-c47d-4463-810a-190a41a107e7.jpg)
+
+                <br />Branch Instruction
+                 <br />
+                  <br />![11_CPU](https://user-images.githubusercontent.com/66528639/170826715-5f17e850-35e3-4374-9ba8-8e67e033e450.jpg)
+
+                   <br />RISC V CPU Design
+
+
+
+
+
+
